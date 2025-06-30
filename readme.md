@@ -1,6 +1,6 @@
 # 🧠 Awesome Telegrinder [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of libraries, tools, and templates built upon [Telegrinder](https://github.com/aiogram/telegrinder), the fast and modern Telegram Bot framework.
+> A curated list of libraries, tools, and templates built upon [Telegrinder](https://github.com/timoniq/telegrinder), the fast and modern Telegram Bot framework.
 
 ---
 
