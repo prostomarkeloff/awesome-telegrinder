@@ -6,13 +6,22 @@
 
 ## 📦 Libraries
 
-### [Langrinder](https://github.com/tirch/langrinder)
+### [Langrinder](https://github.com/ventuero/langrinder)
 
-An internationalization (i18n) engine integrating Mako templates with Telegrinder.
+Flexible internationalization (i18n) engine based on Mako templates
 
-- Compiles Mako templates into Python classes
-- Configured via `pyproject.toml`
-- Provides flexibility and comfort in managing translations
+- Based on mako templates. Maximum flexibility and comfort
+- Flexible compilers & parsers (default: JSON compiler)
+- Telegrinder integration
+
+
+### [Fluent Telegrinder](https://github.com/ventuero/fluent-telegrinder)
+
+[Fluent](https://projectfluent.org) i18n implementation for telegrinder
+
+- Based on telegrinder's `ABCTranslator`
+- Custom locale sources (via nodes)
+- Built-in rules
 
 ---
 
