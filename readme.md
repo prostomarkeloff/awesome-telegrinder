@@ -43,6 +43,14 @@ A paginator utility for Telegram bots built with Telegrinder.
 - Compatible with Telegrinder's architecture
 - Includes examples demonstrating basic and advanced usage
 
+### [Telebar](https://github.com/prostomarkeloff/telebar)
+
+Progress bar utility for Telegram bots built with Telegrinder.
+
+- Easy-to-use progress bar visualization
+- Integrates seamlessly with Telegrinder bots
+- Customizable progress indicators
+
 ---
 
 ## ⚗️ Templates
