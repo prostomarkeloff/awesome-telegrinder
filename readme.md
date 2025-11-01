@@ -6,16 +6,7 @@
 
 ## 📦 Libraries
 
-### [Langrinder](https://github.com/ventuero/langrinder)
-
-Flexible internationalization (i18n) engine based on Mako templates
-
-- Based on mako templates. Maximum flexibility and comfort
-- Flexible compilers & parsers (default: JSON compiler)
-- Telegrinder integration
-
-
-### [Fluent Telegrinder](https://github.com/ventuero/fluent-telegrinder)
+### [Fluent Telegrinder](https://github.com/plaicd/fluent-telegrinder)
 
 [Fluent](https://projectfluent.org) i18n implementation for telegrinder
 
